@@ -25,6 +25,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
 </div>
 
 <h3>Let's Connect! 🌐</h3>
