@@ -27,6 +27,24 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="30" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
 </div>
 
 <h3>Let's Connect! 🌐</h3>
