@@ -53,6 +53,10 @@
   <a href="https://instagram.com/shantuuuuuuu?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+ 
+  <a href="https://x.com/Sujeet_1705?t=p2tE5XpqwMhXlXzQKoeiYw&s=09">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" height="35" alt="instagram logo"  />
+  </a>
 
   <a href="mailto:sujeetpawar17@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
